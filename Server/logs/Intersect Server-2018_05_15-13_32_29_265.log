@@ -1,0 +1,23 @@
+﻿2018-05-15 11:32:29.267 [Info] Database backup at 2018-05-15 01-32-29 took  137ms
+2018-05-15 11:32:29.651 [Info] Listening on 0.0.0.0:5400.
+2018-05-15 11:32:40.006 [Info] Connection approved [8ab57767-7703-4b48-9a92-44abdc3c241d].
+2018-05-15 11:32:40.043 [Debug] Connection established to remote [8ab57767-7703-4b48-9a92-44abdc3c241d/127.0.0.1:49728].
+2018-05-15 11:32:40.043 [Info] Connected [8ab57767-7703-4b48-9a92-44abdc3c241d].
+2018-05-15 11:33:00.408 [Debug] StatusChanged: [NetIncomingMessage #0 22 bytes] [Disconnected]
+2018-05-15 11:33:00.408 [Debug] Connectioned terminated to remote [8ab57767-7703-4b48-9a92-44abdc3c241d/127.0.0.1:49728].
+2018-05-15 11:33:00.409 [Info] Disconnected [8ab57767-7703-4b48-9a92-44abdc3c241d].
+2018-05-15 11:33:00.411 [Debug] Client disconnected ([menu])
+2018-05-15 11:36:17.047 [Info] Connection approved [9919e02b-c647-4332-9bda-beab4fc6a956].
+2018-05-15 11:36:17.058 [Debug] Connection established to remote [9919e02b-c647-4332-9bda-beab4fc6a956/127.0.0.1:64492].
+2018-05-15 11:36:17.058 [Info] Connected [9919e02b-c647-4332-9bda-beab4fc6a956].
+2018-05-15 11:36:29.282 [Debug] StatusChanged: [NetIncomingMessage #0 11 bytes] [Disconnected]
+2018-05-15 11:36:29.282 [Debug] Connectioned terminated to remote [9919e02b-c647-4332-9bda-beab4fc6a956/127.0.0.1:64492].
+2018-05-15 11:36:29.282 [Info] Disconnected [9919e02b-c647-4332-9bda-beab4fc6a956].
+2018-05-15 11:36:29.282 [Debug] Client disconnected ([menu])
+2018-05-15 11:37:02.689 [Info] Connection approved [b2d7fcb2-09d4-43c0-8ec2-afa0ab1e9412].
+2018-05-15 11:37:02.715 [Debug] Connection established to remote [b2d7fcb2-09d4-43c0-8ec2-afa0ab1e9412/127.0.0.1:62486].
+2018-05-15 11:37:02.715 [Info] Connected [b2d7fcb2-09d4-43c0-8ec2-afa0ab1e9412].
+2018-05-15 11:40:51.407 [Debug] StatusChanged: [NetIncomingMessage #281 11 bytes] [Disconnected]
+2018-05-15 11:40:51.407 [Debug] Connectioned terminated to remote [b2d7fcb2-09d4-43c0-8ec2-afa0ab1e9412/127.0.0.1:62486].
+2018-05-15 11:40:51.407 [Info] Disconnected [b2d7fcb2-09d4-43c0-8ec2-afa0ab1e9412].
+2018-05-15 11:40:51.407 [Debug] Client disconnected (Babalerouge->Vert)

@@ -1,0 +1,14 @@
+﻿2018-05-15 17:39:19.536 [Info] Database backup at 2018-05-15 07-39-19 took  1675ms
+2018-05-15 17:39:20.010 [Info] Listening on 0.0.0.0:5400.
+2018-05-15 17:39:28.675 [Info] Connection approved [3856054e-84b1-4eb1-8eee-93414182479e].
+2018-05-15 17:39:28.691 [Debug] Connection established to remote [3856054e-84b1-4eb1-8eee-93414182479e/127.0.0.1:55133].
+2018-05-15 17:39:28.691 [Info] Connected [3856054e-84b1-4eb1-8eee-93414182479e].
+2018-05-15 18:09:18.729 [Info] Connection approved [31299c2b-670d-4161-885f-8ab094b466d0].
+2018-05-15 18:09:18.751 [Debug] Connection established to remote [31299c2b-670d-4161-885f-8ab094b466d0/127.0.0.1:63751].
+2018-05-15 18:09:18.751 [Info] Connected [31299c2b-670d-4161-885f-8ab094b466d0].
+2018-05-15 18:22:16.023 [Debug] StatusChanged: [NetIncomingMessage #410 10 bytes] [Disconnected]
+2018-05-15 18:22:16.024 [Debug] Connectioned terminated to remote [31299c2b-670d-4161-885f-8ab094b466d0/127.0.0.1:63751].
+2018-05-15 18:22:16.025 [Info] Disconnected [31299c2b-670d-4161-885f-8ab094b466d0].
+2018-05-15 18:22:16.027 [Debug] Client disconnected (Babalerouge->Vert)
+2018-05-15 18:33:15.164 [Debug] StatusChanged: [NetIncomingMessage #411 11 bytes] [Disconnecting]
+2018-05-15 18:33:15.168 [Debug] StatusChanged: [NetIncomingMessage #412 11 bytes] [Disconnected]

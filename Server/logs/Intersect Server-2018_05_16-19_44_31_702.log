@@ -1,0 +1,15 @@
+﻿2018-05-16 17:44:31.710 [Error] Message: Une exception a été levée par la cible d'un appel.
+2018-05-16 17:44:31.730 [Error] Stack Trace:    à System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   à System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   à System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   à System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   à Intersect.Server.Classes.MainClass.Main(String[] args) dans C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\Main.cs:ligne 17
+2018-05-16 17:44:31.735 [Error] Stack Trace:    à System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   à System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   à System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access)
+   à Intersect.Utilities.ReflectionUtils.ExtractResource(String resourceName, String destinationName) dans C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Library\Intersect Library\Utilities\ReflectionUtils.cs:ligne 48
+   à Intersect.Server.Classes.ServerStart.Start(String[] args) dans C:\Users\JC Snider\Desktop\AGD\Intersect-Engine\Intersect Server\Classes\Core\ServerStart.cs:ligne 38
+2018-05-16 17:44:31.735 [Error] Time: 5/16/2018 5:44:31 PM
+
+--------------------------------------------------------------------------------
+

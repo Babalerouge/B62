@@ -1,0 +1,11 @@
+﻿2018-05-13 15:59:19.406 [Info] Database backup at 2018-05-13 05-59-19 took  79ms
+2018-05-13 15:59:19.761 [Info] Listening on 0.0.0.0:5400.
+2018-05-13 15:59:27.911 [Info] Connection approved [b1d7aaee-582d-4c6a-b5fa-6c04ab0f4501].
+2018-05-13 15:59:27.947 [Debug] Connection established to remote [b1d7aaee-582d-4c6a-b5fa-6c04ab0f4501/127.0.0.1:59343].
+2018-05-13 15:59:27.948 [Info] Connected [b1d7aaee-582d-4c6a-b5fa-6c04ab0f4501].
+2018-05-13 15:59:51.324 [Info] Connection approved [06eb72e6-55b9-4702-ae9c-b3ff28880a52].
+2018-05-13 15:59:51.334 [Debug] Connection established to remote [06eb72e6-55b9-4702-ae9c-b3ff28880a52/127.0.0.1:55463].
+2018-05-13 15:59:51.334 [Info] Connected [06eb72e6-55b9-4702-ae9c-b3ff28880a52].
+2018-05-13 16:02:04.254 [Debug] StatusChanged: [NetIncomingMessage #40 11 bytes] [Disconnecting]
+2018-05-13 16:02:04.255 [Debug] StatusChanged: [NetIncomingMessage #41 11 bytes] [Disconnecting]
+2018-05-13 16:02:04.260 [Debug] StatusChanged: [NetIncomingMessage #42 11 bytes] [Disconnected]

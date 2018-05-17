@@ -1,0 +1,23 @@
+﻿2018-05-14 17:54:37.799 [Info] Database backup at 2018-05-14 07-54-37 took  77ms
+2018-05-14 17:54:38.294 [Info] Listening on 0.0.0.0:5400.
+2018-05-14 17:54:47.546 [Info] Connection approved [51a57a8a-57bf-4f6b-b5ce-78828dacb38b].
+2018-05-14 17:54:47.557 [Debug] Connection established to remote [51a57a8a-57bf-4f6b-b5ce-78828dacb38b/127.0.0.1:53672].
+2018-05-14 17:54:47.557 [Info] Connected [51a57a8a-57bf-4f6b-b5ce-78828dacb38b].
+2018-05-14 18:05:00.327 [Info] Connection approved [95582ec8-6d92-4557-8678-b94ddb6f19c6].
+2018-05-14 18:05:00.336 [Debug] Connection established to remote [95582ec8-6d92-4557-8678-b94ddb6f19c6/127.0.0.1:60320].
+2018-05-14 18:05:00.336 [Info] Connected [95582ec8-6d92-4557-8678-b94ddb6f19c6].
+2018-05-14 18:14:44.173 [Debug] StatusChanged: [NetIncomingMessage #914 11 bytes] [Disconnected]
+2018-05-14 18:14:44.173 [Debug] Connectioned terminated to remote [95582ec8-6d92-4557-8678-b94ddb6f19c6/127.0.0.1:60320].
+2018-05-14 18:14:44.174 [Info] Disconnected [95582ec8-6d92-4557-8678-b94ddb6f19c6].
+2018-05-14 18:14:44.176 [Debug] Client disconnected (Babalerouge->Vert)
+2018-05-14 18:16:36.125 [Info] Connection approved [caffd185-47f4-4dd9-b946-a2cd72b08afc].
+2018-05-14 18:16:36.136 [Debug] Connection established to remote [caffd185-47f4-4dd9-b946-a2cd72b08afc/127.0.0.1:50949].
+2018-05-14 18:16:36.136 [Info] Connected [caffd185-47f4-4dd9-b946-a2cd72b08afc].
+2018-05-14 18:19:19.297 [Debug] StatusChanged: [NetIncomingMessage #353 11 bytes] [Disconnected]
+2018-05-14 18:19:19.297 [Debug] Connectioned terminated to remote [caffd185-47f4-4dd9-b946-a2cd72b08afc/127.0.0.1:50949].
+2018-05-14 18:19:19.297 [Info] Disconnected [caffd185-47f4-4dd9-b946-a2cd72b08afc].
+2018-05-14 18:19:19.297 [Debug] Client disconnected (Babalerouge->Vert)
+2018-05-14 18:20:09.547 [Debug] StatusChanged: [NetIncomingMessage #106 10 bytes] [Disconnected]
+2018-05-14 18:20:09.547 [Debug] Connectioned terminated to remote [51a57a8a-57bf-4f6b-b5ce-78828dacb38b/127.0.0.1:53672].
+2018-05-14 18:20:09.547 [Info] Disconnected [51a57a8a-57bf-4f6b-b5ce-78828dacb38b].
+2018-05-14 18:20:09.547 [Debug] Client disconnected (Babalerouge->[editor])

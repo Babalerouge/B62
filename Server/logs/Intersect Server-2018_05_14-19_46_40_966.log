@@ -1,0 +1,9 @@
+﻿2018-05-14 17:46:40.968 [Info] Database backup at 2018-05-14 07-46-40 took  79ms
+2018-05-14 17:46:41.504 [Info] Listening on 0.0.0.0:5400.
+2018-05-14 17:46:53.894 [Info] Connection approved [a7c46f5b-978d-4ac8-9ded-c8cd18cfe5db].
+2018-05-14 17:46:53.917 [Debug] Connection established to remote [a7c46f5b-978d-4ac8-9ded-c8cd18cfe5db/127.0.0.1:57957].
+2018-05-14 17:46:53.918 [Info] Connected [a7c46f5b-978d-4ac8-9ded-c8cd18cfe5db].
+2018-05-14 17:54:29.377 [Debug] StatusChanged: [NetIncomingMessage #22 10 bytes] [Disconnected]
+2018-05-14 17:54:29.378 [Debug] Connectioned terminated to remote [a7c46f5b-978d-4ac8-9ded-c8cd18cfe5db/127.0.0.1:57957].
+2018-05-14 17:54:29.378 [Info] Disconnected [a7c46f5b-978d-4ac8-9ded-c8cd18cfe5db].
+2018-05-14 17:54:29.381 [Debug] Client disconnected (Babalerouge->[editor])
